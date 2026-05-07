@@ -59,7 +59,7 @@
 |---------|-------------|------|
 | [🔧 AWS Grafana Minikube Automation](https://github.com/Bilel-code/aws-grafana-minikube-automation) | Automated Grafana deployment on Kubernetes/Minikube on AWS EC2 via CloudFormation pipeline | AWS · Bash · Docker · Kubernetes |
 | [🌐 Web Nmap Scanner](https://github.com/Bilel-code/Web-Nmap-Scanner) | Browser-based Nmap scanner with FastAPI backend, Dockerised | Python · FastAPI · Nmap · Docker |
-| [🏢 Enterprise Network Topology on GNS3](https://github.com/Bilel-code/Creation-of-an-enterprise-Network-Topology-on-GNS3) | Full corporate network topology (campus, DMZ, data center, ISP) + insider attack simulations (DHCP starvation, DNS poisoning, VLAN hopping) | GNS3 · Cisco IOS · Python · Scapy |
+| [🏢 Enterprise Network Topology on GNS3](https://github.com/Bilel-code/Creation-of-an-enterprise-Network-Topology-on-GNS3) | Full corporate network topology (campus, DMZ, data center, ISP) + insider attack simulations | GNS3 · Cisco IOS · Python · Scapy |
 
 ---
 
@@ -81,6 +81,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilel-code&theme=dark&hide_border=true" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bilel-code/Bilel-code/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bilel-code/Bilel-code/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Bilel-code/Bilel-code/output/github-snake.svg" />
+</picture>
 
 ---
 
