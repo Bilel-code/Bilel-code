@@ -71,25 +71,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilel-code&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilel-code&layout=compact&theme=dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilel-code&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bilel-code/Bilel-code/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bilel-code/Bilel-code/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Bilel-code/Bilel-code/output/github-snake.svg" />
 </picture>
 
+---
 
+<p align="center">📫 <strong>miloudi.bilel02@gmail.com</strong> · 📞 +44 7469052075 · 📍 Guildford, UK</p>
