@@ -92,6 +92,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Bilel-code/Bilel-code/output/github-snake.svg" />
 </picture>
 
----
 
-<p align="center">📫 <strong>miloudi.bilel02@gmail.com</strong> · 📞 +44 7469052075 · 📍 Guildford, UK</p>
